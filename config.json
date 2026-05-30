@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyrecrypt",
+        "uuid": 6201225,
+        "checksum": "cmjnj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
